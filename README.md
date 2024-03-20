@@ -1,6 +1,6 @@
 # cinema-backend
-The Cinema
+The Cinema.
 
-Diagram of database schema
+Diagram of database schema:
 
 ![Diagram](diagram.png)
